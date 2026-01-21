@@ -24,10 +24,11 @@ short description of what your project does
 git clone https://github.com/NakshatraDeshmukh/Anything.git
 cd repo-name
 npm install
+```
 
 ---
 ## Procedure
-- S1 : Create README.MD FILE
-- S2 : Move to your repository 
-- S3 : Commit the changes
-- S4 : Push to the remote repository 
+- **S1** : Create README.MD FILE
+- **S2** : Move to your repository 
+- **S3** : Commit the changes
+- **S4** : Push to the remote repository 
